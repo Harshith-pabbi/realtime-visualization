@@ -1,0 +1,22 @@
+1. The Environment Setup:
+  
+              .\venv\Scripts\activate
+
+Install Dependencies:
+
+              pip install -r requirements.txt
+
+2.The Validation (Testing):
+          
+              python tests/test_buffer.py
+
+Test the Performance:
+               
+              python tests/test_performance.py
+
+3.The Execution (Launching the Dashboard):
+
+               python src/dashboard.py
+
+
+            

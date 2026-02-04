@@ -1,0 +1,29 @@
+{
+  "dark_emerald": {
+    "name": "Dark Emerald",
+    "bg_color": "#0d1117",
+    "ax_color": "#161b22",
+    "grid_color": "#30363d",
+    "line_color": "#2ecc71",
+    "text_color": "#c9d1d9",
+    "marker_color": "#27ae60"
+  },
+  "cyber_punk": {
+    "name": "Cyber Pink",
+    "bg_color": "#000000",
+    "ax_color": "#1a1a1a",
+    "grid_color": "#333333",
+    "line_color": "#ff007f",
+    "text_color": "#39ff14",
+    "marker_color": "#ff007f"
+  },
+  "corporate_light": {
+    "name": "Corporate Light",
+    "bg_color": "#ffffff",
+    "ax_color": "#f0f0f0",
+    "grid_color": "#d3d3d3",
+    "line_color": "#2980b9",
+    "text_color": "#2c3e50",
+    "marker_color": "#3498db"
+  }
+}

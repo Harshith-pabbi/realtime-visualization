@@ -1,0 +1,8 @@
+# Core Visualization
+matplotlib>=3.8.0
+
+# Data Handling (Optional but recommended for SDE roles)
+numpy>=1.26.0
+
+# Testing (Essential for Testing/QA roles)
+pytest>=7.4.0
