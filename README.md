@@ -22,3 +22,5 @@ A high-performance telemetry visualization toolkit built in Python, designed for
    ```bash
    pip install -r requirements.txt
    ```
+3. pip install streamlit
+4. python src/dashboard.py
