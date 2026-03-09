@@ -1,6 +1,6 @@
 import matplotlib
 # Use TkAgg backend to ensure a window pops up on all operating systems
-matplotlib.use('TkAgg') 
+matplotlib.use('Agg') 
 
 import os
 import sys
